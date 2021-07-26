@@ -1,0 +1,1 @@
+Warning: None triangle mesh: apoyo (file: 'C:\Users\Public\Documents\Unity Projects\PokerGame\Assets\BGA\Poker Pack\Models\Tables\Table.fbx') [ (line 0)]
